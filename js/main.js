@@ -6,7 +6,7 @@ const minsEl = document.getElementById('mins');
 const secsEl = document.getElementById('secs');
 
 //creating const of birthday
-const birthdayDate = '19 Jan 2021';
+const birthdayDate = '19 Jan 2022';
 
 function countdown() {
     //translating them
